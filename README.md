@@ -3,9 +3,9 @@ An pytorch implementation of Paper "Improved Training of Wasserstein GANs" on fa
 
 # Implementation details
 
-**Library** : Pytorch version 1.3.1
-**GPU** : Tesla V100-SXM2-32GB
-**Number of epochs** : 200
+**Library** : Pytorch version 1.3.1<br/>
+**GPU** : Tesla V100-SXM2-32GB<br/>
+**Number of epochs** : 200<br/>
 
 
 # Results
