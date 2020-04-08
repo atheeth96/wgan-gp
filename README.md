@@ -10,9 +10,9 @@ An pytorch implementation of Paper "Improved Training of Wasserstein GANs" on fa
 
   Some Sample Result, you can refer to the [results/](results/) folder for **details**.
 
-  ![rain_iter_187462](results/rain_iter_187462.png)
+  ![train_iter_187462](results/train_iter_187462.png)
 
-  ![rain_iter_187562](results/rain_iter_187562.png)
+  ![train_iter_187562](results/train_iter_187562.png)
 
 
   Sample Result after around 190000 iterarions 

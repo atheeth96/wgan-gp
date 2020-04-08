@@ -1,0 +1,6 @@
+*.csv
+*model*
+*.zip
+*pycache*
+*processed*
+*ubyte*
