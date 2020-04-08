@@ -1,9 +1,11 @@
 # WGAN-GP
 An pytorch implementation of Paper "Improved Training of Wasserstein GANs" on fashion MNSIST dataset.
 
-# GPU used Tesla V100-SXM2-32GB
+# Implementation details
 
-**Pytorch version 1.3.1**
+**Library** : Pytorch version 1.3.1
+**GPU** : Tesla V100-SXM2-32GB
+**Number of epochs** : 200
 
 
 # Results
